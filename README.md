@@ -1,5 +1,4 @@
 # simple-nuke-bot
-Simple nuke bot.
 
 [ Paso 1 ]: Descarga el archivo "By-YoungBlod".
 [ Paso 2 ]: Abre setup.bat para instalar todos los módulos necesarios.
